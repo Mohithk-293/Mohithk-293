@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/cb/0d/13/cb0d139e178018df8b3e778369395ac7.gif)](https://Mohithk-293.io)
 <h1 align="center">Hi 👋, I'm Mohith</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="300" style="margin-bottom:20px " src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
+<img align="right" alt="Coding" width="350" style="margin-bottom:20px " src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithk-293&label=Profile%20views&color=0e75b6&style=flat" alt="mohithk-293" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohithk_293" target="blank"><img src="https://img.shields.io/twitter/follow/mohithk_293?logo=twitter&style=for-the-badge" alt="mohithk_293" /></a> </p>
